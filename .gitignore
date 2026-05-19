@@ -1,0 +1,31 @@
+# Unreal Engine 5
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/
+*.dmp
+*.mdmp
+*.log
+CrashReportClient/
+CrashVideo/
+CrashDumps/
+
+# Visual Studio
+.vs/
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# JetBrains Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
